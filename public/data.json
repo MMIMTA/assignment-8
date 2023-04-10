@@ -1,0 +1,57 @@
+[
+    {
+      "id": "6433a94cec74868e5a898a53",
+      "picture": "https://phantom-marca.unidadeditorial.es/8ecf81788454bfe7bef8a42302ee5d34/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/18/16398597754199.jpg",
+      "name": "Squats",
+      "time":"30s"
+    },
+    {
+      "id": "6433a94ca2017d15c7d8700e",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/lunge-mallory-creveling-trevor-raab-fitness-shoots-0240-1647378565.jpg?crop=0.583xw:0.873xh;0.221xw,0.127xh&resize=1200:*",
+      "name": "lunges",
+      "time": "40s"
+    },
+    {
+      "id": "6433a94c998c73b7f7f98c75",
+      "picture": "https://post.healthline.com/wp-content/uploads/2019/04/Pushup_Female_Steps-1200x628-Facebook.jpg",
+      "name": "Pushups",
+      "time":"35s"
+    },
+    {
+      "id": "6433a94c7b18ec5db655c677",
+      "picture": "https://cdn.mos.cms.futurecdn.net/zrvGQZPFocPaKKgysrcoeK.jpg",
+      "name": "Overhead dumple presses",
+      "time": "20s"
+      
+    },
+    {
+      "id": "6433a94cb81897854c46c0b9",
+      "picture": "https://hips.hearstapps.com/hmg-prod/images/form-check-index-1591205064.png",
+      "name": "Dumbbell Rows",
+      "time":"30s"
+    },
+    {
+      "id": "6433a94ccc165d7a411c420c",
+      "picture": "https://media.stack.com/stack-content/uploads/2015/10/20165414/Side-Plank-STACK.png",
+      "name": "Side Plank",
+      "time":"45s"
+    },
+    {
+      "id": "6433a94c42d5fe81e8c8fad8",
+      "picture": "https://www.muscleandfitness.com/wp-content/uploads/2020/01/MU1017_FE_STRON_15r.jpg?quality=86&strip=all",
+      "name": "Glute Bridge",
+      "time":"20s"
+    },
+    {
+      "id": "6433a94c75a8761bbbc80d41",
+      "picture": "https://static.runnea.com/images/202204/que-es-burpees-que-beneficios-tiene-1200x572x80xX.jpg?1",
+      "name": "Burpees",
+      "time":"32s"
+    },
+    {
+      "id": "6433a94c0eaf352d773977e9",
+      "picture": "https://phantom-marca.unidadeditorial.es/3a5f49a99f77b33c50ecbb614847c38c/crop/0x141/2046x1288/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/23/16402763206065.jpg",
+      "name": "Planks",
+      "time":"25s"
+    }
+  ]
