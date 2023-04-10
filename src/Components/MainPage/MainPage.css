@@ -1,0 +1,30 @@
+.Exercise-site{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    
+}
+.Heading{
+    text-align: left;
+    color: blueviolet;
+    font-size: larger;
+    font-weight: 600;
+    padding-left:50px;
+    
+}
+.sec-heading{
+    text-align: left;
+    padding-left:50px;
+    padding-bottom:20px ;
+    font-weight: 600;
+}
+.logo{
+    height: 30px;
+    border-radius: 50%;
+    padding-right: 10px;
+  
+}
