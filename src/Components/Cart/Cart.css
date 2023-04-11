@@ -1,0 +1,72 @@
+.p-name{
+    font-size: larger;
+    font-weight: 600;
+}
+.p-address{
+    color:rgb(146, 144, 144)
+}
+.cart-container{
+    text-align: left;
+    padding-left: 5px;
+    display: flex;
+    align-items: center;
+}
+.p-image{
+    height:50px;
+    border-radius: 20px;
+    padding: 10px;
+}
+.bio-details{
+    font-size: x-large;
+    font-weight: 500;
+}
+.details-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 30px;
+    padding:0px 10px;
+    background: rgb(205, 204, 202);
+    border-radius: 10px;
+}
+.cart-heading{
+    font-size: larger;
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 30px;
+}
+
+.break-btn{
+    padding:5px;
+    margin:5px;
+    border:none;
+    border-radius: 50px;
+}
+.break-btn:hover{
+    background: #a7a7a8;
+}
+.break-div{
+    background: rgb(205, 204, 202);
+    margin: 10px 30px;
+    padding:10px 10px;
+    border-radius: 10px;
+}
+.Time-div{
+    text-align: left;
+    background: rgb(205, 204, 202);
+    margin: 10px 30px;
+    padding:10px 10px;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.activity-btn{
+    border:none;
+    background:rgb(44, 76, 162);
+    color:white;
+    padding:10px;
+    width:80%;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.activity-btn:hover{
+    background: #2494df;
+}

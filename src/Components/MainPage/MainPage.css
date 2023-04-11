@@ -1,12 +1,11 @@
 .Exercise-site{
     display: grid;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns: 2fr 1fr;
 }
 .container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 10px;
-    
 }
 .Heading{
     text-align: left;
@@ -27,4 +26,10 @@
     border-radius: 50%;
     padding-right: 10px;
   
+}
+.exercise-part{
+    padding:10px;
+}
+.Cart{
+    background: #e7e5e5;
 }
